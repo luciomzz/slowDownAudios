@@ -2,6 +2,8 @@ Hi!
 
 If you are here, you probably need to slow down some audios. You are in the right place.
 
+This script is perfect for slowing down Elevenlabs outputs.
+
 This is a compact script that uses pydub (that needs ffmpeg) and sounstretch, which is part of soundtouch.
 
 At the time of writing, you can install ffmpeg ('essentials' version recommended) from the website https://www.gyan.dev/ffmpeg/builds/
