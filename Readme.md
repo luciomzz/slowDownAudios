@@ -17,5 +17,5 @@ ffmpeg version 7.0.1-essentials_build-www.gyan.dev
 SoundStretch v2.3.3
 pydub v0.25.1
 
-
-
+You can contact me at luciano.mazza3@gmail.com
+Feel free to leave a star on this repository if you are using it!
