@@ -2,7 +2,7 @@ Hi!
 
 If you are here, you probably need to slow down some audios. You are in the right place.
 
-This script is perfect for slowing down Elevenlabs outputs.
+This script is perfect for slowing down Elevenlabs outputs. I use it to slow down the output for my AI generated podcast (https://linktr.ee/learningeveryday), where a 7% slowing down helps creating a more calm and pleasant listening experience.
 
 This is a compact script that uses pydub (that needs ffmpeg) and sounstretch, which is part of soundtouch.
 
