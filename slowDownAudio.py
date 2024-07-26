@@ -25,9 +25,9 @@ def slow_down_and_pitch_stretch(input_path, slowdown_factor, output_path):
 
 if __name__ == "__main__":
     # Make sure you put the right paths here 
-    input_path = 'test.mp3'
-    output_path = 'testSlower.mp3'
+    input_path = 'testHelloOriginal.mp3'
+    output_path = 'testHelloSlower_1.42.mp3'
 
     # The higher the slower, I recommend not going above 1.2. For high values artifacts can appear.
-    slowdown_output = 1.07
+    slowdown_output = 1.42
     slow_down_and_pitch_stretch(input_path, slowdown_output, output_path)
